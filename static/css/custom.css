@@ -1,0 +1,25 @@
+.card {
+    margin-bottom: 1.5rem;
+}
+
+.navbar {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.alert {
+    margin-bottom: 1rem;
+}
+
+.table th {
+    border-top: none;
+}
+
+.pagination {
+    margin-top: 1.5rem;
+    margin-bottom: 0;
+}
+
+.form-control:focus {
+    border-color: var(--bs-primary);
+    box-shadow: 0 0 0 0.25rem rgba(var(--bs-primary-rgb), 0.25);
+}
